@@ -196,7 +196,6 @@ if($second_parity == 0) {
                 <p>Т-90М «Прорыв»</p>
             </div>
             <div class="gallery-item">
-                <!-- Альтернативный способ вывода -->
                 <?php
                 if($second_parity == 0) {
                     echo '<img src="images/gallery_bmp1.jpg" alt="БМП-3">';
