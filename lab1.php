@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Номер лабы ФИО Название Лабы</title>
+    <title>Лабораторная работа 2 Мыльников Никита</title>
     <link rel="stylesheet" href="/styles.css">
 </head>
 
@@ -92,7 +92,7 @@
                 }
             }
 
-           /* echo '<p>2. Цикл WHILE:</p>';
+           /* echo '<p class="tittle-cycle">2. Цикл WHILE:</p>';
 
             $x = $x_start;
             $i = 0;
@@ -141,7 +141,7 @@
                 $x += $step;
             } */
 
-           /* echo '<p>3. Цикл DO WHILE:</p>';
+           /* echo '<p class="tittle-cycle">3. Цикл DO WHILE:</p>';
 
             $x = $x_start;
             $i = 0;
